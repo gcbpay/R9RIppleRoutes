@@ -3,21 +3,23 @@
 # What is Ripple?
 Ripple is a network of computers which use the [Ripple consensus algorithm]
 (http://ripplescan.com/accounts/rPVMhWBsfF9iMXYj3aAzJVkPDTFNSyWdKy)
-to atomically settle and record
-transactions on a secure distributed database, the Ripple Consensus Ledger
-(RCL). Because of its distributed nature, the RCL offers transaction immutability
-without a central operator. The RCL contains a built-incurrency exchange and its
-path-finding algorithm finds competitive exchange rates across order books
-and currency pairs.
+to atomically settle and recordtransactions on a secure distributed
+database, the Ripple Consensus Ledger(RCL). Because of its distributed nature,
+the RCL offers transaction immutabilitywithout a central operator. The RCL 
+contains a built-incurrency exchange and itspath-finding algorithm finds 
+competitive exchange rates across order booksand currency pairs.
+
 R9RIppleRoutes 
 Account rPVMhWBsfF9iMXYj3aAzJVkPDTFNSyWdKy
 Balances
 http://ripplescan.com/accounts/rbwE6wsxzYat1YyGGxzAwq6wBSF5MdoAg
+
 Transactions
 Creation
 Account Balances
 Search:
 Currency	Value	Counterparty
+
 http://ripplescan.com/accounts/rHGotDKeWvwns12E1A9SMUCaW7U42HZpVr
 
 BTC	0.000000	rfdkfsTy5mYaMZhsnbSmwz9v8bgKvCLF5k
@@ -70,7 +72,9 @@ USD	0.000000	rP5qvdY6AgvmM4fYMxscC5PjkGfKqwnwwE
 
 http://ripplescan.com/accounts/rvYAfWj5gh67oV6fW32ZzP3Aw4Eubs59B
 
-XRP	1,033,624,904.186635	
+http://ripplescan.com/accounts/rbwE6wsxzYat1YyGGxzAwq6wBSF5MdoAg
+
+GCB/BTC Trade   rPVMhWBsfF9iMXYj3aAzJVkPDTFNSyWdKy XRP	1,033,624,904.186635	
 
 ### Key Features
 - **Distributed**
