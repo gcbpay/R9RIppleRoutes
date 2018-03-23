@@ -1,4 +1,4 @@
-![Ripple](/images/ripple.png)
+![Ripple](/images/ripple.png)  云上贵州资产链 https://mainnet.acchain.org/#/login
 
 # What is Ripple?
 Ripple is a network of computers which use the [Ripple consensus algorithm]
