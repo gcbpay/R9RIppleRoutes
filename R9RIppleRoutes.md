@@ -2,13 +2,48 @@
 
 # What is Ripple?
 Ripple is a network of computers which use the [Ripple consensus algorithm]
-(https://www.youtube.com/watch?v=pj1QVb1vlC0) to atomically settle and record
+(http://ripplescan.com/accounts/rPVMhWBsfF9iMXYj3aAzJVkPDTFNSyWdKy) to atomically settle and record
 transactions on a secure distributed database, the Ripple Consensus Ledger
 (RCL). Because of its distributed nature, the RCL offers transaction immutability
 without a central operator. The RCL contains a built-incurrency exchange and its
 path-finding algorithm finds competitive exchange rates across order books
 and currency pairs.
-R9RIppleRoutes
+R9RIppleRoutes 
+Account rPVMhWBsfF9iMXYj3aAzJVkPDTFNSyWdKy
+Balances
+http://ripplescan.com/accounts/rbwE6wsxzYat1YyGGxzAwq6wBSF5MdoAg
+Transactions
+Creation
+Account Balances
+Search:
+Currency	Value	Counterparty
+http://ripplescan.com/accounts/rHGotDKeWvwns12E1A9SMUCaW7U42HZpVr
+BTC	0.000000	rfdkfsTy5mYaMZhsnbSmwz9v8bgKvCLF5k
+BTC	0.000000	rJhcNXqDfAvZVAE5xnxmJ1cTwdPwubSx6u
+BTC	0.000000	rupiahgZvKp1qaP6hqAqAZ3A44ARcnGSM
+BTC	0.000000	rEydBn69dkR3dTNTYXjTu8NRrQvQ5GwTZW
+BTC	0.000000	rGDvGC9rHALGBXRLaTAfQVtfydtTh8Q1qb
+BTC	0.000000	rNii15cVeKHxdfCX4mzXVQXfdf3xB3DDq6
+http://ripplescan.com/accounts/r9Xc9N4LpQGcem9yDWLV91186jY6zJRrR9
+BTC	0.000000	rfmVk6FYb55DGtxTYwPRaM3Uvvq8joVoJc
+BTC	0.000000	rPRuysDxGUiqnMmTZoAihXijcwPnP1r64U
+BTC	0.000000	rpmHuwqCMDAiMe8nCjmC5E7GAKiaS6qgh8
+BTC	0.000000	r9bDi4hogdCx3vCjnwtFEAUhT5fwgzmyUc
+BTC	0.000000	rP5qvdY6AgvmM4fYMxscC5PjkGfKqwnwwE
+http://ripplescan.com/accounts/rJAU2GZgVDMSXbYvppFSEqGoZyKaCtCRRR
+EUR	0.000000	rGVZ8GUQ62wqhs3617n4poPuvLEYtEUF2t
+GCB	0.000000	rHGotDKeWvwns12E1A9SMUCaW7U42HZpVr
+GSM	0.000000	rPRuysDxGUiqnMmTZoAihXijcwPnP1r64U
+IDR	0.000000	rPRuysDxGUiqnMmTZoAihXijcwPnP1r64U
+PYC	0.000000	rHGotDKeWvwns12E1A9SMUCaW7U42HZpVr
+http://ripplescan.com/accounts/rNdwi8ain5ibXNB9A7H3zzKtSxgVzAqqAe
+USD	0.000000	rLuXhVBS86bCMCJehu2xHWwbFgJkWENmz
+USD	0.000000	rHEvchpCJHp18HaVQtxLgEyyth9uHGH6yc
+USD	0.000000	rnLgGey2Mwg6hcqW6uyjKffSYuifFMikJg
+USD	0.000000	rPRuysDxGUiqnMmTZoAihXijcwPnP1r64U
+USD	0.000000	rP5qvdY6AgvmM4fYMxscC5PjkGfKqwnwwE
+http://ripplescan.com/accounts/rvYAfWj5gh67oV6fW32ZzP3Aw4Eubs59B
+XRP	1,033,624,904.186635	
 ### Key Features
 - **Distributed**
   - Direct account-to-account settlement with no central operator
